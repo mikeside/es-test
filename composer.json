@@ -1,0 +1,17 @@
+{
+    "name": "mikehub/es-test",
+    "description": "elasticsearch-php 实战",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mike"
+        }
+    ],
+    "keywords": [
+        "elasticsearch php",
+        "elasticsearch",
+        "elastic php",
+        "elastic"
+    ],
+    "require": {}
+}
