@@ -9,7 +9,9 @@ elasticsearch php 实战练习
 
 #### 安装教程
 
-1.  xxxx
+``
+composer create-project mikehub/es-test
+``
 
 #### 使用说明
 
