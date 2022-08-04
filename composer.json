@@ -7,11 +7,14 @@
             "name": "Mike"
         }
     ],
+    "license": "AGPL-3.0",
     "keywords": [
         "elasticsearch php",
         "elasticsearch",
         "elastic php",
         "elastic"
     ],
-    "require": {}
+    "require": {
+        "elasticsearch/elasticsearch": "^8.3"
+    }
 }
