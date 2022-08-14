@@ -10,7 +10,7 @@ elasticsearch php 实战练习
 #### 安装教程
 
 ``
-composer create-project mikehub/es-test
+composer create-project mikeside/es-test
 ``
 
 #### 使用说明
